@@ -1,0 +1,46 @@
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\bin\Debug\I002.exe.config
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\bin\Debug\I002.exe
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\bin\Debug\I002.pdb
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.csprojAssemblyReference.cache
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.MainMenu.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.Properties.Resources.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.csproj.GenerateResource.cache
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.csproj.CoreCompileInputs.cache
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.exe
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.pdb
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.Products.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.FormAddProduct.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.ChangeProduct.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.Counteragent.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.ChangeAndAddCounteragent.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.ProductOnStorage.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.BuyProduct.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.SellProductForm.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.FormPurchase.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.FormDialogCounteragent.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.FormDialogProduct.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.ForProductOnStorage.SellProductDialog.resources
+C:\Users\temch\Desktop\Шарага\3 курс\C++\I002\I002\obj\Debug\I002.CompositionForm.resources
+C:\Users\Герман\Desktop\I002\I002\bin\Debug\I002.exe.config
+C:\Users\Герман\Desktop\I002\I002\bin\Debug\I002.exe
+C:\Users\Герман\Desktop\I002\I002\bin\Debug\I002.pdb
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.csprojAssemblyReference.cache
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.ChangeAndAddCounteragent.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.Counteragent.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.FormDialogProduct.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.FormDialogCounteragent.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.ForProductOnStorage.SellProductDialog.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.CompositionForm.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.FormPurchase.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.BuyProduct.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.ProductOnStorage.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.ChangeProduct.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.FormAddProduct.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.MainMenu.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.Products.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.Properties.Resources.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.SellProductForm.resources
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.csproj.GenerateResource.cache
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.csproj.CoreCompileInputs.cache
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.exe
+C:\Users\Герман\Desktop\I002\I002\obj\Debug\I002.pdb
